@@ -20,6 +20,7 @@
 
 
 Фронтенд: TypeScript, React, Redux(saga), Axios, Material UI.
+
 Бекенд: Node.js, Express, PostgreSQL, Sequelize, Bcrypt, Multer.
 
 
