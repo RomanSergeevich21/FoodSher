@@ -9,7 +9,7 @@
 [FoodSher.pdf](https://github.com/RomanSergeevich21/FoodSher/files/10863131/FoodSher.pdf)
 
 
-Стек:
+# Cтек технологий
 ![javascript (1)](https://user-images.githubusercontent.com/116179113/222198045-72559373-e17d-4fa3-9339-79eae21146c1.png)
 ![node](https://user-images.githubusercontent.com/116179113/222197951-2beb7a1e-1074-4f38-962c-600039f22b5f.png)
 ![redax](https://user-images.githubusercontent.com/116179113/222197979-031c89cd-cff4-4ea6-98dc-3972d072ca7c.png)
@@ -19,5 +19,5 @@
 
 
 
-Фронтенд: TypeScript, React, Redux(saga), Axios, Ant Design, Styled-components, EmailJS
-Бекенд: Node.js, Express, PostgreSQL, Sequelize ORM, Bcrypt, Multer
+Фронтенд: TypeScript, React, Redux(saga), Axios, Material UI.
+Бекенд: Node.js, Express, PostgreSQL, Sequelize, Bcrypt, Multer.
