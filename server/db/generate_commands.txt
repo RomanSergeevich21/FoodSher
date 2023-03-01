@@ -1,0 +1,36 @@
+
+1. Role
+2. Category
+3. Status
+4. User
+5. Request
+6. Product
+7. Reserve
+8. Comment
+9. Favorite
+10 Rating
+11 Subscription
+
+npx sequelize-cli model:generate --name Role --attributes rolename:string
+
+npx sequelize-cli model:generate --name Category --attributes title:string,photoPath:string
+
+npx sequelize-cli model:generate --name Status --attributes title:string
+
+npx sequelize-cli model:generate --name User --attributes email:string,hashpass:text,firstName:string,lastName:string,secondName:string,phone:string,pathPhoto:string,alternativePhone:string,companyName:string,titleLogoPath:string,active:boolean,description:text,roleid:integer
+
+npx sequelize-cli model:generate --name Request --attributes title:string,lifeTimeStart:date,lifeTimeEnd:date,address:string,contactPhone:string,contactName:string,description:text,partnerid:integer,statusid:integer
+
+npx sequelize-cli model:generate --name Product --attributes title:string,price:integer,photoPath:string,count:integer,description:text,categoryid:integer,requestid:integer
+
+npx sequelize-cli model:generate --name Reserve --attributes count:integer,userid:integer,productid:integer
+
+npx sequelize-cli model:generate --name Comment --attributes body:text,authorid:integer,userid:integer
+
+npx sequelize-cli model:generate --name Favorite --attributes userid:integer,requestid:integer
+
+npx sequelize-cli model:generate --name Rating --attributes clientid:integer,ownerid:integer,evaluation:float
+
+npx sequelize-cli model:generate --name Subscription --attributes subscriberid:integer,companyid:integer
+
+
