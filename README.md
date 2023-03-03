@@ -5,8 +5,9 @@
 ![Проблематика](https://user-images.githubusercontent.com/116179113/222192466-c7d35659-abfe-4c7b-a307-d11914a72003.jpg)
 
 Ознакомиться с презентацией проекта
+[FoodSher_Git .pdf](https://github.com/RomanSergeevich21/FoodSher/files/10883288/FoodSher_Git.pdf)
 
-[FoodSher.pdf](https://github.com/RomanSergeevich21/FoodSher/files/10863131/FoodSher.pdf)
+
 
 
 # Cтек технологий
